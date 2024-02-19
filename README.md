@@ -1,4 +1,4 @@
-# blockchainpythoninicial
+# Blockchain con python inicial
 Proyecto de implementacion de blockchain con Python nivel inicial
 
 El blockchain es una tecnologia disruptiva que esta definiendo nuevas maneras de trabajar con la tecnologia
